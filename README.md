@@ -17,9 +17,7 @@ This project was to build the back end for an e-commerce site, using a working E
 
 - Install mysql2 package
 - Install sequelize package
-
 - Install dotenv package (to save mysql password and important information)
-
 - from the terminal open mysql using "mysql -u (your username) -p
 - once you press enter you will be asked for your mysql password. Once you are in mysql enter "source db/schema.sql" to enter the database. To quit MySQL type "quit"
 - after this type npm run seed from the terminal to seed the database
